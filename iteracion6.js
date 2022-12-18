@@ -12,6 +12,7 @@ const toys = [
 {id: 40, name: 'El gato felix'}
 ]
 
+
 let juguete = []
 for (let index = 0; index < toys.length; index++) {
 
