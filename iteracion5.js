@@ -22,5 +22,5 @@ for (let index = 0; index < placesToTravel.length; index++) {
         placesToTravel.splice(index, 3)
     }
 }
-z
+
 console.log(placesToTravel)
