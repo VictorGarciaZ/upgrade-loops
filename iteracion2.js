@@ -13,6 +13,7 @@ const alumns = [
 		{name: 'Raquel Benito', T1: true, T2: true, T3: true}
 ]
 
+
 for (const alumn of alumns) {
     let T1 = alumn.T1;
     let T2 = alumn.T2;
