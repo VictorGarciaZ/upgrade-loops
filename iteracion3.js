@@ -6,6 +6,7 @@ Puedes usar este array:*/
 
 const placesToTravel = ['Japon', 'Venecia', 'Murcia', 'Santander', 'Filipinas', 'Madagascar']
 
+
 const place = [];
 
 for(const place of placesToTravel){
